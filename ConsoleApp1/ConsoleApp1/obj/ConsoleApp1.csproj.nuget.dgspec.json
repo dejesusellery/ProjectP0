@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Feihcetile\\Desktop\\Revature\\220705-UTA-NET\\Projects\\Project0\\Project0.csproj": {}
+    "C:\\Users\\Feihcetile\\Desktop\\Revature\\VisualStudio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Feihcetile\\Desktop\\Revature\\220705-UTA-NET\\Projects\\Project0\\Project0.csproj": {
+    "C:\\Users\\Feihcetile\\Desktop\\Revature\\VisualStudio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Feihcetile\\Desktop\\Revature\\220705-UTA-NET\\Projects\\Project0\\Project0.csproj",
-        "projectName": "Project0",
-        "projectPath": "C:\\Users\\Feihcetile\\Desktop\\Revature\\220705-UTA-NET\\Projects\\Project0\\Project0.csproj",
+        "projectUniqueName": "C:\\Users\\Feihcetile\\Desktop\\Revature\\VisualStudio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\Feihcetile\\Desktop\\Revature\\VisualStudio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Feihcetile\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Feihcetile\\Desktop\\Revature\\220705-UTA-NET\\Projects\\Project0\\obj\\",
+        "outputPath": "C:\\Users\\Feihcetile\\Desktop\\Revature\\VisualStudio\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Feihcetile\\AppData\\Roaming\\NuGet\\NuGet.Config",
